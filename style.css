@@ -1,0 +1,128 @@
+
+body{
+	background: rgb(232,229,232);
+	font-family: helvetica;
+	font-style: initial;
+	
+}
+
+
+div{
+	background-color: rgb(255,255,255);
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+	margin: 30px; 
+    padding: 15px;
+    border-radius: 0px;
+    box-shadow: 4px 4px 6px grey 
+  }
+
+div.a{
+	text-align: center;
+}
+
+
+.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 75%;
+        border-width: 2px;
+        border-style: solid;
+        border-color: grey;
+    }
+
+.sans-radius{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img{
+	border-radius: 0%
+}
+
+
+
+h1{
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+	
+}
+
+
+@media(max-width: 500px){
+.container
+}
+
+.btn-flat {
+  color: white;
+  padding: 8px 24px;
+  border-radius: 4px;
+  background:rgb(100,149,237);
+  transition: background 0.3s ease;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.btn-flat:hover {
+  background: #1BCB7F;
+  color: white;
+}
+
+a{
+	text-decoration: none;
+	color: blue
+	
+}
+
+a:hover {
+	color: red;
+
+}
+
+
+
+@media  {
+ 
+  .btn-flat {
+    width: 600px;
+  }
+}
+@media  {
+  
+  .btn-flat {
+    width: 400px;
+    align-items: center;
+  }
+}
+@media  {
+  
+  .btn-flat{
+    width: 200px;
+  }
+}
+
+.cards {
+  display: flex;
+	flex-wrap: wrap;
+}
+.card{
+  flex-basis: 5px;
+	flex-grow: 15px;
+	margin: 35px;
+	display: block;
+     margin-left: auto;
+     margin-right: auto;
+}

@@ -1,0 +1,112 @@
+<html>
+  <head>
+	<title>MATHIS MANISSOL</title>
+	<meta name="Mathis MANISSOL" content="mathis manissol étudiant ESDES saint-gobain PAM">
+	<meta charset="utf-8">
+
+
+  <link rel="stylesheet" href="style.css">
+
+  </head>
+    <body>
+   	 
+   	<div>
+
+   		<h1>Mathis MANISSOL</h1>
+     
+     	<img 
+   	   src="téléchargement.png" alt="photo profil Mathis MANISSOL"
+   	   height="250px"
+   	   width="190px" 
+   	   class="center">
+   	  
+    
+   	<h2>Etudiant de l'ESDES en alternance
+    </h2>
+
+    
+    <p>
+          Etudiant de 3ème année d'école de commerce à l'ESDES en alternance chez Saint-Gobain Pont-à-Mousson. En quête d'un master en Management et Stratégie d'entreprise.
+          </p>
+   </div> 
+   	 
+   	  
+   	   <div>
+   	   	<h3>Présentation de l'entreprise:</h3>
+
+   	   	<img 
+   	   src="PAM.html" 
+   	   alt="photo societe PAM"
+   	   height="250px"
+   	   width="190px" 
+   	   class="center">
+
+           <p>Pont-à-Mousson, entreprise filliale du groupe Saint-Gobain. Leader mondial des solutions fonte pour les évacuations des eaux usées, eaux vannes et eaux pluviales. Agence lyonnaise basée à Meyzieu avec comme zone géographique d'action la région Auvergne-Rhône-Alpes et la région Bourgogne-Franche-Comté. </p>
+       </div>  
+   	   
+
+   	   <div>
+           <h3>Mes fonctions au sein de l'entreprise:</h4>
+          
+            <ul>
+          	 <li>Chargé d'affaire sur le secteur Lyon nord (région Bourgogne-Franche-Comté)</li>
+          	 <li>Chargé de développement d'activité</li>
+            </ul>
+        </div>
+   	      
+   	      <div>
+   	      	<h3>Mes missions:</h3>
+
+             <ul>
+             	<li>Gestion de projets</li>
+             	<li>Prise de commande et rédaction d'offre de prix</li>
+             	<li>Prospection et visite de clientèle</li>
+             	<li>Mise en place de stratégie pour le développement d'une ativité</li>
+             </ul>
+         </div>
+
+          
+         
+
+          <div>
+          	<h3>Formations:</h3>
+
+            <ul>
+            	<li>Bachelor ESDES-UCLY (Septembre 2017-Juillet 2020)</li>
+            	<li>Semestre St John's University New York City (septembre 2019-décembre 2019)</li>
+            </ul>
+        </div>
+
+         <div> <H3>Expériences Professionnelles:</H3>
+
+            <ul>
+            	<li>Stage de vente Fnac (décembre 2017)</li>
+            	<li>Mission sociale et humanitaire, Banque alimentaire (juin-aôut 2018)</li>
+            	<li>Stage de pré-spécialisation Point P (juin-aôut 2019)</li>
+            </ul>
+        </div> 
+
+        <div>
+        	<h3>Centres d'intérêts:</h3>
+
+             <ul>
+             	<li>Voyages (île maurice, Italie, Grèce, Madagascar...)</li>
+             	<li>Sports (ski, snowboard, handball, football...)</li>
+             	<li>Cinéma</li>
+             </ul>
+         </div>   
+           
+         <div>
+         <h3>Comment me contacter? </h3>
+          <ul>
+           <li> <u>TEL:</u>07.69.43.77.39</li>
+           <li><u>MAIL:</u> <a href="mailto:">mathis.manissol.2505@gmail.com </a> 
+           </li>
+           <li> <u>LinkedIn:</u> <a href="https://www.linkedin.com/in/mathis-manissol-8a3120151/" target="_blank">Mathis MANISSOL LinkedIn</a> </li>
+          </ul>
+         </div>  
+
+
+
+</body>
+</html>
